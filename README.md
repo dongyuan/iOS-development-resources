@@ -35,3 +35,7 @@ The resources used in my iOS projects and keeps my iOS skill up to date.
 
 * Dependency injection
   * [Swinject](https://github.com/Swinject/Swinject)
+
+* Misc
+  * Create useful .gitignore files for your project on [gitignore.io](https://www.gitignore.io/)
+  
